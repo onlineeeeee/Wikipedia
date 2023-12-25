@@ -1,9 +1,9 @@
 ---
-sidebar_position: 2
-sidebar_label: Dashboard
+sidebar_position: 1
+sidebar_label: dashboard
 sidebar_class_name: green
 ---
-# Dashboard
+# 系统面板
 
 > 提示
 > 
@@ -18,7 +18,7 @@ sidebar_class_name: green
 
 ## 使用参考
 ```shell
-$ dashboard
+dashboard
 ID   NAME                           GROUP           PRIORITY   STATE     %CPU      DELTA_TIME TIME      INTERRUPTE DAEMON
 -1   C2 CompilerThread0             -               -1         -         1.55      0.077      0:8.684   false      true
 53   Timer-for-arthas-dashboard-07b system          5          RUNNABLE  0.08      0.004      0:0.004   false      true
