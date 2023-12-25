@@ -6,8 +6,8 @@ sidebar_class_name: green
 
 # jvm 相关
 * [dashboard](./dashboard.md) - 当前系统的实时数据面板
-* getstatic - 查看类的静态属性
-* heapdump - dump java heap, 类似 jmap 命令的 heap dump 功能
+* [getstatic](./getstatic.md) - 查看类的静态属性
+* [heapdump](./heapdump.md) - dump java heap, 类似 jmap 命令的 heap dump 功能
 * jvm - 查看当前 JVM 的信息
 * logger - 查看和修改 logger
 * mbean - 查看 Mbean 的信息
