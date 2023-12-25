@@ -9,7 +9,7 @@ sidebar_class_name: green
 * [getstatic](./getstatic.md) - 查看类的静态属性
 * [heapdump](./heapdump.md) - dump java heap, 类似 jmap 命令的 heap dump 功能
 * [jvm](./jvm.md) - 查看当前 JVM 的信息
-* logger - 查看和修改 logger
+* [logger](./logger.md) - 查看和修改 logger
 * mbean - 查看 Mbean 的信息
 * memory - 查看 JVM 的内存信息
 * ognl - 执行 ognl 表达式
